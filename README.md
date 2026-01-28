@@ -1,1 +1,2 @@
 # sistema-cadastro-funcionarios
+Sistema de cadastro de funcionarios em java feito inteiramente pelo celular utilizando o app editor Jvdroid. Como podem perceber no código, importei a biblioteca Scanner e a nomeei com o nome de "input" para a entrada de dados, "System.out.println()" para saida e métodos para manter o código limpo e organizado, além de também utilizar as estruturas condicionais if-else para verificação lógica.
