@@ -13,7 +13,6 @@ public class Main {
         double sal = input.nextDouble();
         
         Funcionario cadastro = new Funcionario(name, carge, sal); 
-
         cadastro.MostrarDados();
         
         System.out.println("Deseja fazer um rejuste no salario do funcionario: " + cadastro.getNome() + " (s/n)? ");
